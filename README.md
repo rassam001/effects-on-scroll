@@ -6,6 +6,8 @@ build webpage following this design
 
 ## Tasks
 
+(use javscript & SCSS/CSS)
+
 1. Page header must fixed in the top of the sceen, when user scroll down the hight of the header will be 70px and the font size of the logo get smaller and slide to the left. And if the user scroll to the top, header & logo change to their origin status.
 
 1. when the page load, the heading 'Welcome to ...' and paragraph below appear and slide from the left.(first the heading than paragraph)
